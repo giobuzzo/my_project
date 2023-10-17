@@ -81,25 +81,25 @@ and steps from previous questions:
 
 	c. explain in 2-3 sentences the main patterns of N losses across countries, in relation to production volume and NUE (including any singular feature).
 
-	>ANSWER
-	>I believe that the plot can serve to group the countries according to the efficiency of their agriculture production, or at of least wheat production.
-	>On one side China and India have a very large wheat production and high nitrogen yield, but at the same time, due to a relatively low NUE, the nitrogen loss is also very high.
-	>On the other side USA, Russian Federation and France are among the top wheat producers, but due to a higher NUE, the nitrogen loss is lower.
-	>Pakistan, though with a much smaller production than China and India, has a similar low nitrogen efficiency.
-	>France is the most virtuous wheat producer (highest NUE): France produces only 37% of the wheat produced by China, but it is able to do that with only 18% of China's nitrogen loss.
-	>The plot, especially if a temporal dimension is added, might be useful for displaying the differences in the efficiency of agricultural production in Global North and in Global South countries.
+	>ANSWER<br>
+	I believe that the plot can serve to group the countries according to the efficiency of their agriculture production, or at of least wheat production.<br>
+	On one side China and India have a very large wheat production and high nitrogen yield, but at the same time, due to a relatively low NUE, the nitrogen loss is also very high.<br>
+	On the other side USA, Russian Federation and France are among the top wheat producers, but due to a higher NUE, the nitrogen loss is lower.<br>
+	Pakistan, though with a much smaller production than China and India, has a similar low nitrogen efficiency.<br>
+	France is the most virtuous wheat producer (highest NUE): France produces only 37% of the wheat produced by China, but it is able to do that with only 18% of China's nitrogen loss.<br>
+	The plot, especially if a temporal dimension is added, might be useful for displaying the differences in the efficiency of agricultural production in Global North and in Global South countries.<br>
 	
 
 5. Explain in 2-3 sentences how an analysis like the one performed in previous tasks could translate to 
 the models within BNR's modeling suite (https://iiasa.github.io/iBIOM/en/main/), including potential limitations.
 
->ANSWER
+>ANSWER<br>
 The Nitrogen indicators may be used as input of the EPIC model.<br>
 Potential limitations: the availability of updated SPAM layers.
 
 6. Please report any issues you encountered or assumptions that you had to make in order to complete the assignment.
 
->ANSWER
+>ANSWER<br>
 >To answer question 4. I had to manually change two country names in order to merge the vector dataset and the NUE table. This was possible because the tasks considered only 10 countries. Otherwise it would be necessary to implement a more efficient string match.
 
 >I made the assumption that the country's NUE can be used to calculate nitrogen indicators of one specific crop (wheat).
