@@ -94,8 +94,8 @@ and steps from previous questions:
 the models within BNR's modeling suite (https://iiasa.github.io/iBIOM/en/main/), including potential limitations.
 
 >ANSWER
->The Nitrogen indicators may be used as input of the EPIC model.
->Potential limitations: the availability of updated SPAM layers.
+The Nitrogen indicators may be used as input of the EPIC model.<br>
+Potential limitations: the availability of updated SPAM layers.
 
 6. Please report any issues you encountered or assumptions that you had to make in order to complete the assignment.
 
