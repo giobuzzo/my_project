@@ -1,8 +1,9 @@
 # my_project
 
-Assignment for Spatial data scientist position 2023/05.
-This repository hosts a Jupyter notebook and its results.
-The `requirements.txt` can be used to set up the python environment required to execute the notebook and reproduce the results.
+The project combines global datasets to analyze nitrogen indicarors.<br>
+A Jupyter notebook contains the sequence of steps for the data manipulation and for the visualization of the results.<br>
+The results of the notebook have been pre-calculated and are available in the repository.<br>
+The `requirements.txt` can be used to set up the python environment required to execute the notebook.
 
 
 ## Usage
